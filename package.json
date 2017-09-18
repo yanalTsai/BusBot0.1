@@ -1,0 +1,19 @@
+{
+  "name": "chat-example",
+  "version": "0.0.0",
+  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "main": "server.js",
+  "repository": "",
+  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "body-parser": "^1.17.2",
+    "botly": "^1.4.1",
+    "express": "^4.13.1",
+    "firebase-admin": "^5.1.0",
+    "havenondemand": "^1.4.0",
+    "request-json": "^0.6.2",
+    "socket.io": "~0.9.14",
+    "uniqid": "^4.1.1"
+  }
+}
